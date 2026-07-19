@@ -217,6 +217,6 @@ Please refer to the folder references for the complete list of research papers.
 
 # Author
 
-- **Nupoor Atul Mahajan (23BCE0040)**
+- **Nupoor Atul Mahajan **
 
 ---
